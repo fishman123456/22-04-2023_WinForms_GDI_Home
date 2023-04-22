@@ -1,0 +1,11 @@
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\bin\Debug\22-04-2023_WinForms_GDI_Home.exe.config
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\bin\Debug\22-04-2023_WinForms_GDI_Home.exe
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\bin\Debug\22-04-2023_WinForms_GDI_Home.pdb
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\22-04-2023_WinForms_GDI_Home.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\22-04-2023_WinForms_GDI_Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\_22_04_2023_WinForms_GDI_Home.Form1.resources
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\_22_04_2023_WinForms_GDI_Home.Properties.Resources.resources
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\22-04-2023_WinForms_GDI_Home.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\22-04-2023_WinForms_GDI_Home.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\22-04-2023_WinForms_GDI_Home.exe
+C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\obj\Debug\22-04-2023_WinForms_GDI_Home.pdb
