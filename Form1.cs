@@ -45,7 +45,7 @@ namespace _22_04_2023_WinForms_GDI_Home
         {
             try
             {
-                Bitmap myBitmap = new Bitmap(@"Background.bmp");
+                Bitmap myBitmap = new Bitmap("Background.bmp");
                 // получаем объект Graphics
                 Graphics gFromImage = Graphics.FromImage(myBitmap);
                 Font f = new Font("Verdana", 8, FontStyle.Italic);
@@ -71,7 +71,7 @@ namespace _22_04_2023_WinForms_GDI_Home
             try
             {
 
-                Bitmap myBitmap = new Bitmap(@"NewBackground.bmp");
+                Bitmap myBitmap = new Bitmap("NewBackground.bmp");
                 Graphics g = e.Graphics;
                 g.DrawImage(myBitmap, 0, 0, 300, 200);
                 myBitmap.Dispose();
