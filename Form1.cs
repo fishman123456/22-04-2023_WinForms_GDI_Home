@@ -71,8 +71,10 @@ namespace _22_04_2023_WinForms_GDI_Home
         {
             try
             {
+                string ruspaint = @"C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\Безымянный.bmp";
+                string engpaint = @"C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\Background.bmp";
 
-                var myBitmap = new Bitmap(@"C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\Background.bmp");
+                var myBitmap = new Bitmap(ruspaint);
                 Graphics g = e.Graphics;
                 g.DrawImage(myBitmap, 10, 10, 400, 400);
                 myBitmap.Dispose();
