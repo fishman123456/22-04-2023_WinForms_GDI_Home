@@ -74,7 +74,7 @@ namespace _22_04_2023_WinForms_GDI_Home
 
                 var myBitmap = new Bitmap(@"C:\Users\Fishman_1\Documents\GitHub\22-04-2023_WinForms_GDI_Home\Background.bmp");
                 Graphics g = e.Graphics;
-                g.DrawImage(myBitmap, 10, 10, 300, 200);
+                g.DrawImage(myBitmap, 10, 10, 400, 400);
                 myBitmap.Dispose();
                 g.Dispose();
             }
